@@ -1,0 +1,10 @@
+Answers :
+1.What IP address did DNS return for Google? 
+=142.251.221.174
+
+2.Was the ping successful?
+=Yes, Reply from 2404:6800:4007:808::200e: time=168ms,Ping statistics for 2404:6800:4007:808::200e:     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:  Minimum = 42ms, Maximum = 168ms, Average = 84ms
+
+3.Why is DNS important before communication begins?  
+=Computers communicate using IP addresses, not domain names. DNS translates human-readable names like "google.com" into IP addresses like "142.250.77.46". Without DNS resolving the name first, your device wouldn't know where to send the request, it's like needing a phone directory before you can make a call.
