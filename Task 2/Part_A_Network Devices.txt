@@ -1,0 +1,29 @@
+1. Router
+Purpose: Connects your local network to other networks, like the internet.
+How it works: It checks the destination IP address of data packets and sends them through the best available path.
+Example: The Wi-Fi router at home that connects your phone, laptop, and other devices to the internet.
+
+2. Switch
+Purpose: Connects multiple devices within the same network (LAN).
+How it works: It remembers the MAC addresses of connected devices and sends data only to the device that needs it.
+Example: An office switch connecting computers, printers, and servers together.
+
+3. Hub
+Purpose: Connects devices in a network and shares data between them.
+How it works: Whenever it receives data, it sends that data to every connected device, whether they need it or not.
+Example: Used in older networks before switches became common.
+
+4. Access Point (AP)
+Purpose: Provides Wi-Fi access to devices.
+How it works: It connects to a wired network and broadcasts a wireless signal so devices can connect wirelessly.
+Example: Wi-Fi access points installed in schools, colleges, or large office buildings.
+
+5. Firewall
+Purpose: Protects a network from unwanted or unauthorized access.
+How it works: It checks incoming and outgoing traffic and blocks anything that doesn't match its security rules.
+Example: A company's firewall preventing outsiders from accessing internal systems.
+
+6. Modem
+Purpose: Connects your network to your Internet Service Provider (ISP).
+How it works: It converts data signals between your devices and the ISP's network so communication can happen.
+Example: The modem provided by your ISP for your home internet connection.

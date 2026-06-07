@@ -1,0 +1,9 @@
+IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred)
+Default Gateway . . . . . . . . . : fe80::e88:32ff:fe9b:4b3c%4
+DNS Servers . . . . . . . . . . . : fe80::e88:32ff:fe9b:4b3c%4
+
+
+1.Which IP range does your device belong to? → 192.168.0.0/16 (Private, Class C)
+2.Is it Public or Private? → Private
+3.What role does your router play? → It acts as the gateway between your private home network and the public internet. It also assigns IP addresses to your devices via DHCP and performs NAT.
+4.What would happen if the DNS server stopped working? → You would not be able to browse websites by domain name (e.g., google.com would fail), even though the internet connection itself is still working. You'd have to use raw IP addresses to access anything — which is practically impossible for everyday use.
