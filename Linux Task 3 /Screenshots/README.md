@@ -1,6 +1,6 @@
 # Linux Task 03 — Process Management, System Monitoring & Shell Scripting
 
-**Name:** Rithik Raj
+**Name:** V Sam Paul
 **Date:** 14-06-2025
 **Internship Task:** Task 03
 
