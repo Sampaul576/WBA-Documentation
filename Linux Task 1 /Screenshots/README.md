@@ -1,6 +1,6 @@
 # 🐧 Linux Task 01 — Linux Environment Setup & Essential Commands
 
-**Internship Task | Submitted by:** Rithik Raj
+**Internship Task | Submitted by:** V Sam Paul
 **VM Used:**  Kali 
 ---
 
