@@ -1,6 +1,6 @@
 # Linux Task 02: Users, Groups & File Permissions
 
-**Name:** Rithik Raj 
+**Name:** V Sam Paul
 
 
 ---
