@@ -23,8 +23,3 @@ The purpose of this task was to understand the core principles of cybersecurity 
 - Most breaches originate from a small set of recurring threats: insider misuse, malware, phishing, weak passwords, and unpatched systems — most of which are preventable with basic security hygiene.
 - Practical security recommendations (MFA, patching, backups, training) are low-cost, high-impact measures any organization can implement.
 
-## Submission Notes
-
-This task is part of the ongoing internship and is maintained in the same repository as previous tasks (Task 01: Linux Fundamentals, Task 02: Networking, Task 03: Linux Process & System Monitoring), each in its own folder.
-
-This is a learning-focused task, not a marks-based submission.
