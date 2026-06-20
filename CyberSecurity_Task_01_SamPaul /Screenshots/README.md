@@ -91,8 +91,6 @@ Poster file included in this folder as: Social Eng
 - *What security improvements will you implement immediately?*
 - *Why is cybersecurity important in today's world?*
 
-**Draft starting point (edit/expand to reach 200–300 words and make it personal):**
-
 > Going through this audit, I realized that some of my digital habits had gaps I hadn't paid much attention to before — such as  an account without MFA, an outdated system, a reused password. This task helped me see that even small oversights, like skipping a system update or reusing a password across platforms, can create real vulnerabilities that attackers actively look for.
 >
 > Going forward, I plan to immediately enable MFA on all my major accounts" / "set up a password manager" / "review my firewall settings regularly". These are simple changes that significantly reduce risk without requiring advanced technical knowledge.
