@@ -104,7 +104,7 @@ Poster file included in this folder as: Social Eng
 ## Folder Contents
 
 ```
-CyberSecurity_Task_01_RithikRaj/
+CyberSecurity_Task_01_SamPaul/
 ├── README.md                          (this file)
 ├── screenshot_partA_os_info.png
 ├── screenshot_partA_updates.png
